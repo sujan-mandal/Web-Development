@@ -32,7 +32,6 @@ main {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  max-width: 1495px;
   height: 700px;
   display: flex;
   flex-direction: column;
