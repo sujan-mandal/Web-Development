@@ -15,7 +15,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 30px 120px;
+  padding: 30px 150px;
 }
 nav button {
   height: 30px;
@@ -25,10 +25,13 @@ nav button {
   opacity: 0.8;
 }
 main {
-  padding: 120px;
+  padding: 150px;
 }
 
 .banner-section-container {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   max-width: 1495px;
   height: 700px;
   display: flex;
@@ -356,7 +359,7 @@ footer {
   align-items: center;
   border-radius: 16px;
   background: rgba(13, 19, 33, 0.03);
-  padding: 32px 120px;
+  padding: 32px 150px;
 }
 footer p {
   color: rgb(13, 19, 33);
