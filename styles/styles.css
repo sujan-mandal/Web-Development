@@ -35,7 +35,6 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: url("/assets/Hero-bg.png");
 }
 
 .banner-image-container {
@@ -312,8 +311,6 @@ iframe {
 }
 
 .support-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("/assets/handshake.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
