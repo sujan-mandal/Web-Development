@@ -192,3 +192,75 @@ main{
     border-radius: 10px;
     overflow: hidden;
     }
+
+
+    .current-container{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        flex-direction: column;
+        margin-top: 149px;
+    }
+
+    .current-container-content{
+       
+        display: flex;
+        justify-content: space-between;
+        margin-top: 48px;
+    }
+
+    .current-container-content > div {
+        text-align: left;
+        padding: 40px;
+        width: 364px;
+        height: 300px;
+    }
+    
+    .current-container-content img{
+        width: 40px;
+        height: 29px;
+        left: 27.98px;
+        top: 19.28px;
+
+    }
+
+    .current-container-content h2{
+        color: rgb(13, 19, 33);
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 36px;
+        margin-top: 24px;
+       
+
+    }
+
+    .current-container-content p{
+        color: rgb(54, 59, 70);
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 8px;
+    }
+
+    .current-container-content h5{
+        color: rgb(13, 19, 33);
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 24px;
+        text-decoration: underline;
+
+    }
+    .one{
+        background-color: rgba(255, 76, 30, 0.05);
+       
+
+    }
+
+    .two{
+        background-color: rgba(0, 76, 232, 0.05);
+        
+    }
+
+    .three{
+        background-color: rgba(255, 223, 0, 0.05);
+      
+    }
