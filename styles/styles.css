@@ -15,7 +15,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 30px 150px;
+  padding: 35px 150px;
 }
 nav button {
   height: 30px;
@@ -25,7 +25,7 @@ nav button {
   opacity: 0.8;
 }
 main {
-  padding: 150px;
+  padding: 0 150px;
 }
 
 .banner-section-container {
@@ -360,6 +360,7 @@ footer {
   border-radius: 16px;
   background: rgba(13, 19, 33, 0.03);
   padding: 32px 150px;
+  margin-top: 120px;
 }
 footer p {
   color: rgb(13, 19, 33);
